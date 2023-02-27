@@ -1,4 +1,5 @@
 Hey 👋 I'm Mpho
+
 A newbie pasionate Software Developer
 
 - 🔭 I’m currently working on projects using Django
