@@ -5,5 +5,3 @@ A newbie pasionate Software Developer
 - 🔭 I’m currently working on projects using Django
 - 🌱 I’m currently learning Cloud development,Python,DevOps
 - 👯 I’m looking to collaborate on creating projects with other Developers
-- 🤔 I’m looking for help with creating piplines and automation
-- 📫 How to reach me on mphondlovu1023@gmail.com
