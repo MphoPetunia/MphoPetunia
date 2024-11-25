@@ -1,4 +1,4 @@
-#👋 Hey, I'm Mpho Ndlovu!   
+👋 **Hey, I'm Mpho Ndlovu!**  
 
 I'm a passionate newbie diving into the tech universe 🌌. My current focus includes:  
 - 🌟 Learning **Python** and its applications in **AI** and beyond.  
