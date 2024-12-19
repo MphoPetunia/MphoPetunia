@@ -11,6 +11,6 @@ I’m inspired by how technology transforms lives. My dream? To harness the powe
 
 
 ### 📫 How to reach me  
-- [LinkedIn](https://www.linkedin.com/in/mpho-ndlovu)  
-- [Email](mphondlovu1023@gmail.com)  
+- (https://www.linkedin.com/in/mpho-ndlovu)  
+- (mphondlovu1023@gmail.com)  
 
